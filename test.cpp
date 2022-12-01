@@ -3,7 +3,7 @@
 using namespace std;
 
 int main(){
-	int n,m;//fuck
+	int n,m;//fonk
 	cin >> n >> m;
 	cout << n+m << endl;
 	//test
